@@ -37,15 +37,15 @@ namespace modul7_kelompok_06
         public String gender { get; set; }
         public String age { get; set; }
 
-        public members(string nama, string nim, string firstName, string lastName, string gender, string age)
-        {
-            this.nama = nama;
-            this.nim = nim;
-            this.firstName = firstName;
-            this.lastName = lastName;
-            this.gender = gender;
-            this.age = age;
-        }
+        //public members(string nama, string nim, string firstName, string lastName, string gender, string age)
+        //{
+           // this.nama = nama;
+            //this.nim = nim;
+            //this.firstName = firstName;
+           // this.lastName = lastName;
+            //this.gender = gender;
+            //this.age = age;
+       // }
     }
 }
 
