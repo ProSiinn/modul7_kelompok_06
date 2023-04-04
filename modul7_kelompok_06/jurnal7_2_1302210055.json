@@ -1,0 +1,32 @@
+{
+  "members": [
+    {
+      "firstName": "Yaasin",
+      "lastName": "Rafi",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302210055"
+    },
+    {
+      "firstName": "Raffa",
+      "lastName": "Zuhayr",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302210068"
+    },
+    {
+      "firstName": "Nabiel",
+      "lastName": "Prayoga",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302210049"
+    },
+    {
+      "firstName": "Sylvana",
+      "lastName": "Rheina",
+      "gender": "female",
+      "age": 20,
+      "nim": "1302210018"
+    }
+  ]
+}

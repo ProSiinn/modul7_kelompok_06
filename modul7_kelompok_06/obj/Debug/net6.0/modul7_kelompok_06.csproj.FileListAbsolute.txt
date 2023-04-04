@@ -1,0 +1,15 @@
+E:\modul7_kelompok_06\modul7_kelompok_06\obj\Debug\net6.0\modul7_kelompok_06.csproj.AssemblyReference.cache
+E:\modul7_kelompok_06\modul7_kelompok_06\obj\Debug\net6.0\modul7_kelompok_06.GeneratedMSBuildEditorConfig.editorconfig
+E:\modul7_kelompok_06\modul7_kelompok_06\obj\Debug\net6.0\modul7_kelompok_06.AssemblyInfoInputs.cache
+E:\modul7_kelompok_06\modul7_kelompok_06\obj\Debug\net6.0\modul7_kelompok_06.AssemblyInfo.cs
+E:\modul7_kelompok_06\modul7_kelompok_06\obj\Debug\net6.0\modul7_kelompok_06.csproj.CoreCompileInputs.cache
+E:\modul7_kelompok_06\modul7_kelompok_06\bin\Debug\net6.0\modul7_kelompok_06.exe
+E:\modul7_kelompok_06\modul7_kelompok_06\bin\Debug\net6.0\modul7_kelompok_06.deps.json
+E:\modul7_kelompok_06\modul7_kelompok_06\bin\Debug\net6.0\modul7_kelompok_06.runtimeconfig.json
+E:\modul7_kelompok_06\modul7_kelompok_06\bin\Debug\net6.0\modul7_kelompok_06.dll
+E:\modul7_kelompok_06\modul7_kelompok_06\bin\Debug\net6.0\modul7_kelompok_06.pdb
+E:\modul7_kelompok_06\modul7_kelompok_06\obj\Debug\net6.0\modul7_kelompok_06.dll
+E:\modul7_kelompok_06\modul7_kelompok_06\obj\Debug\net6.0\refint\modul7_kelompok_06.dll
+E:\modul7_kelompok_06\modul7_kelompok_06\obj\Debug\net6.0\modul7_kelompok_06.pdb
+E:\modul7_kelompok_06\modul7_kelompok_06\obj\Debug\net6.0\modul7_kelompok_06.genruntimeconfig.cache
+E:\modul7_kelompok_06\modul7_kelompok_06\obj\Debug\net6.0\ref\modul7_kelompok_06.dll
